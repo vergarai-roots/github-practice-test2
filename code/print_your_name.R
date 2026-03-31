@@ -1,5 +1,5 @@
 # Create an object with your name on it
-Isabella <- 2+2
+y <- "Isabella"
 
 # print that object on the console
-print(Isabella)
+print(y)
